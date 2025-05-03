@@ -68,11 +68,17 @@ python generate_images.py
 
 python create_video.py
 
+---
+
+
 ⚙️ Configuration
 
 You can modify the prompts and visual style in generate_images.py to change the artistic output.
 
 The create_video.py script uses ffmpeg to assemble images + audio; adjust settings there for resolution, FPS, or visual effects.
+
+---
+
 
 ⚡ GPU Acceleration
 
