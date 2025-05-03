@@ -1,0 +1,7 @@
+librosa
+numpy
+whisper
+openai
+diffusers
+torch
+moviepy
